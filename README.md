@@ -1,5 +1,5 @@
 <div align="center">
-  ![Alt text]([image link](https://drive.google.com/file/d/1Hjt9oTr0JUhuJIkP6OOHKoMCRtP170EZ/view?usp=sharing))
+  ![Alt text]([https://drive.google.com/file/d/1Hjt9oTr0JUhuJIkP6OOHKoMCRtP170EZ/view?usp=sharing])
 </div>
 
 # Employee Management CRUD App
