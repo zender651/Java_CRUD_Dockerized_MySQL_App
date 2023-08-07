@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://drive.google.com/file/d/1Hjt9oTr0JUhuJIkP6OOHKoMCRtP170EZ/view?usp=sharing.png" alt="Project Logo" width="200">
+  <img src="https://drive.google.com/file/d/1Hjt9oTr0JUhuJIkP6OOHKoMCRtP170EZ/view?usp=sharing" alt="Project Logo" width="200">
 </div>
 
 # Employee Management CRUD App
