@@ -1,5 +1,7 @@
 <div align="center">
-  ![Alt text]([https://drive.google.com/file/d/1Hjt9oTr0JUhuJIkP6OOHKoMCRtP170EZ/view?usp=sharing])
+<!-- a -->
+  ![first](https://github.com/zender651/Java_CRUD_Dockerized_MySQL_App/assets/69720086/a3b18093-ed01-4ab7-ac04-5b3dda99e6ed)
+
 </div>
 
 # Employee Management CRUD App
@@ -34,9 +36,12 @@ Welcome to the Employee Management CRUD App! This project showcases a comprehens
 ## Screenshots
 
 <div align="center">
-  <img src="second.png" alt="Screenshot 1" width="280">
-  <img src="third.png" alt="Screenshot 2" width="280">
-  <img src="fourth.png" alt="Screenshot 3" width="280">
+  <img src="second.png" alt="Screenshot 1" width="280">![second](https://github.com/zender651/Java_CRUD_Dockerized_MySQL_App/assets/69720086/71ca9495-2491-4a59-87e4-bfdde08c974c)
+
+  <img src="third.png" alt="Screenshot 2" width="280">![third](https://github.com/zender651/Java_CRUD_Dockerized_MySQL_App/assets/69720086/a4845eaa-ec41-4ba1-8079-6ee13e2b2f7c)
+
+  <img src="![fourth](https://github.com/zender651/Java_CRUD_Dockerized_MySQL_App/assets/69720086/8a673e81-06b8-4b4b-977c-3d5a716644ac)" alt="Screenshot 3" width="280">
+
 </div>
 
 ## Contributing
