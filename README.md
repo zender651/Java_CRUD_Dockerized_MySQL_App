@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="project_logo.png" alt="Project Logo" width="200">
+  <img src="https://drive.google.com/file/d/1Hjt9oTr0JUhuJIkP6OOHKoMCRtP170EZ/view?usp=sharing.png" alt="Project Logo" width="200">
 </div>
 
 # Employee Management CRUD App
@@ -23,7 +23,7 @@ Welcome to the Employee Management CRUD App! This project showcases a comprehens
 
 1. **Prerequisites:** Make sure you have Java, Maven, MySQL, and Docker installed.
 
-2. **Clone the Repository:** `git clone https://github.com/your-username/employee-management-app.git`
+2. **Clone the Repository:** `git clone https://github.com/zender651/Java_CRUD_Dockerized_MySQL_App.git`
 
 3. **Database Setup:** Configure your MySQL database settings in `application.properties`.
 
@@ -34,9 +34,9 @@ Welcome to the Employee Management CRUD App! This project showcases a comprehens
 ## Screenshots
 
 <div align="center">
-  <img src="screenshot1.png" alt="Screenshot 1" width="280">
-  <img src="screenshot2.png" alt="Screenshot 2" width="280">
-  <img src="screenshot3.png" alt="Screenshot 3" width="280">
+  <img src="second.png" alt="Screenshot 1" width="280">
+  <img src="third.png" alt="Screenshot 2" width="280">
+  <img src="fourth.png" alt="Screenshot 3" width="280">
 </div>
 
 ## Contributing
